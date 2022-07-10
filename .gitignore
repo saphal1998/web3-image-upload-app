@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Solidity
+/src/backend/cache
+/src/backend/artifacts/build-info
+.env
